@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/m.developer/static/css/main.db614fcc.chunk.css",
+    "main.js": "/m.developer/static/js/main.13e788e9.chunk.js",
+    "main.js.map": "/m.developer/static/js/main.13e788e9.chunk.js.map",
+    "runtime-main.js": "/m.developer/static/js/runtime-main.f6464d36.js",
+    "runtime-main.js.map": "/m.developer/static/js/runtime-main.f6464d36.js.map",
+    "static/css/2.d4ec38c6.chunk.css": "/m.developer/static/css/2.d4ec38c6.chunk.css",
+    "static/js/2.a73943d5.chunk.js": "/m.developer/static/js/2.a73943d5.chunk.js",
+    "static/js/2.a73943d5.chunk.js.map": "/m.developer/static/js/2.a73943d5.chunk.js.map",
+    "static/js/3.b77e8411.chunk.js": "/m.developer/static/js/3.b77e8411.chunk.js",
+    "static/js/3.b77e8411.chunk.js.map": "/m.developer/static/js/3.b77e8411.chunk.js.map",
+    "index.html": "/m.developer/index.html",
+    "static/css/2.d4ec38c6.chunk.css.map": "/m.developer/static/css/2.d4ec38c6.chunk.css.map",
+    "static/css/main.db614fcc.chunk.css.map": "/m.developer/static/css/main.db614fcc.chunk.css.map",
+    "static/js/2.a73943d5.chunk.js.LICENSE.txt": "/m.developer/static/js/2.a73943d5.chunk.js.LICENSE.txt",
+    "static/media/about.18dc1981.jpg": "/m.developer/static/media/about.18dc1981.jpg",
+    "static/media/img1.d7ceb137.jpg": "/m.developer/static/media/img1.d7ceb137.jpg",
+    "static/media/img10.3fae3909.jpg": "/m.developer/static/media/img10.3fae3909.jpg",
+    "static/media/img2.77020c23.jpg": "/m.developer/static/media/img2.77020c23.jpg",
+    "static/media/img3.698cd8c6.jpg": "/m.developer/static/media/img3.698cd8c6.jpg",
+    "static/media/img4.46682e0a.jpg": "/m.developer/static/media/img4.46682e0a.jpg",
+    "static/media/img5.9223eefd.jpg": "/m.developer/static/media/img5.9223eefd.jpg",
+    "static/media/img6.f310c067.jpg": "/m.developer/static/media/img6.f310c067.jpg",
+    "static/media/img7.88d85231.jpg": "/m.developer/static/media/img7.88d85231.jpg",
+    "static/media/img8.4c402246.jpg": "/m.developer/static/media/img8.4c402246.jpg",
+    "static/media/img9.e3792104.jpg": "/m.developer/static/media/img9.e3792104.jpg",
+    "static/media/okdark.07494494.png": "/m.developer/static/media/okdark.07494494.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6464d36.js",
+    "static/css/2.d4ec38c6.chunk.css",
+    "static/js/2.a73943d5.chunk.js",
+    "static/css/main.db614fcc.chunk.css",
+    "static/js/main.13e788e9.chunk.js"
+  ]
+}

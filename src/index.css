@@ -1,0 +1,67 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.main {
+    background-color: black;
+}
+
+.qts {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 30px;
+}
+
+.head {
+    font-family: 'Monoton', cursive;
+    font-size: 32px;
+    line-height: 28px;
+}
+
+.abt {
+    width: 200px;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 160px;
+    border-bottom-right-radius: 160px;
+}
+
+img {
+    width: 400px;
+}
+
+.sc {
+    cursor: pointer;
+}
+
+.fa-linkedin:hover {
+    color: #03256C;
+}
+
+.fa-instagram:hover {
+    color: #FF6767;
+}
+
+.fa-twitter-square:hover {
+    color: #6DDCCF;
+}
+
+@media only screen and (max-width:576px) {
+    img {
+        width: 250px;
+    }
+    .qts {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .abt {
+        width: 150px;
+    }
+}
